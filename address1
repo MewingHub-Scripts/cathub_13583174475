@@ -1,0 +1,568 @@
+local a = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local b = a:MakeWindow({Name = "Cat Hub v6", HidePremium = false, SaveConfig = true, ConfigFolder = ".null#3847 only"})
+a:MakeNotification(
+    {
+        Name = "only .null#3847 aka rob",
+        Content = "only .null#3847 is sigma",
+        Image = "rbxassetid://13583174475",
+        Time = 3
+    }
+)
+local c = b:MakeTab({Name = "Units", Icon = "rbxassetid://13583174475", PremiumOnly = false})
+local d = b:MakeTab({Name = "TextBox", Icon = "rbxassetid://13583174475", PremiumOnly = false})
+local e = b:MakeTab({Name = "Misc", Icon = "rbxassetid://13583174475", PremiumOnly = false})
+local f = b:MakeTab({Name = "25 farms", Icon = "rbxassetid://13583174475", PremiumOnly = false})
+c:AddButton(
+    {Name = "DJ TV Man (2click)", Callback = function()
+            local g = {[1] = "DJ TV MAN"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Utdm", Callback = function()
+            local g = {[1] = "Upgraded Titan DrillMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Ultra", Callback = function()
+            local g = {[1] = "Ultra Hyper Titan Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Baller", Callback = function()
+            local g = {[1] = "Baller Unit"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "TItan Clover Men", Callback = function()
+            local g = {[1] = "Titan Clover Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Jojo All Star", Callback = function()
+            local g = {[1] = "Jojo All Star"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Sorcerer", Callback = function()
+            local g = {[1] = "Sorcerer"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Utcm", Callback = function()
+            local g = {[1] = "Upgraded Titan Clock Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "utcm 3.0", Callback = function()
+            local g = {[1] = "Upgraded Titan ClockMan 3.0"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Sub-Space Titlan", Callback = function()
+            local g = {[1] = "Sub-Space Titan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Titan Cm", Callback = function()
+            local g = {[1] = "Titan Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Lobotomy", Callback = function()
+            local g = {[1] = "FIRE IN DA HOLE"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Toilet Speaker", Callback = function()
+            local g = {[1] = "Speaker Toilet"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Pea Shoter", Callback = function()
+            local g = {[1] = "Pea Shoter"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Sunflower", Callback = function()
+            local g = {[1] = "Sunflower"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Star Platinum", Callback = function()
+            local g = {[1] = "Star Platinum"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "testofjeese", Callback = function()
+            local g = {[1] = "testofjeese"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Coems Unt", Callback = function()
+            local g = {[1] = "Coems Unit"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Titan Burg", Callback = function()
+            local g = {[1] = "Titan Burger Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "Tri Titan", Callback = function()
+            local g = {[1] = "Tri Titan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+c:AddButton(
+    {Name = "CamWoman", Callback = function()
+            local g = {[1] = "CameraWoman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+e:AddButton(
+    {
+        Name = "Ban Yourself",
+        Callback = function()
+            local g = {[1] = 9999999999999}
+            game:GetService("ReplicatedStorage"):WaitForChild("RemoveCoinshuferhfidjidfjidfsjisfjisfjisf"):InvokeServer(
+                unpack(g)
+            )
+        end
+    }
+)
+c:AddButton(
+    {
+        Name = "Coins Clicker",
+        Callback = function()
+            local g = {[1] = -10000000}
+            game:GetService("ReplicatedStorage"):WaitForChild("RemoveCoinshuferhfidjidfjidfsjisfjisfjisf"):InvokeServer(
+                unpack(g)
+            )
+        end
+    }
+)
+c:AddButton(
+    {
+        Name = "Gem Clicker",
+        Callback = function()
+            local g = {[1] = -50000}
+            game:GetService("ReplicatedStorage"):WaitForChild(
+                "gemitassigmaoyeweyaporfadejadeusarcheatsojrwjprqrojpqofnklwckllkjcknlacknlacnlkaknlcaknlaknlcaknlknl"
+            ):InvokeServer(unpack(g))
+        end
+    }
+)
+d:AddParagraph(
+    "NOTE:",
+    "DONT EXCEED YOUR GEMS/COINS TO 1B OR U WILL GET BANNED BY A NEW ANTI CHEAT (if u dont believe me just try it ;)"
+)
+d:AddTextbox(
+    {
+        Name = "Gems Value",
+        Default = "0",
+        TextDisappear = true,
+        Callback = function(h)
+            local g = {[1] = -h}
+            game:GetService("ReplicatedStorage"):WaitForChild(
+                "gemitassigmaoyeweyaporfadejadeusarcheatsojrwjprqrojpqofnklwckllkjcknlacknlacnlkaknlcaknlaknlcaknlknl"
+            ):InvokeServer(unpack(g))
+        end
+    }
+)
+d:AddTextbox(
+    {
+        Name = "Coins Value",
+        Default = "0",
+        TextDisappear = true,
+        Callback = function(h)
+            local g = {[1] = -h}
+            game:GetService("ReplicatedStorage"):WaitForChild("RemoveCoinshuferhfidjidfjidfsjisfjisfjisf"):InvokeServer(
+                unpack(g)
+            )
+        end
+    }
+)
+e:AddParagraph(
+    "The list of unit you will get",
+    "2D Cameraman, Astro Upgraded Titan Cameraman, Baller Unit, Camera Spider, CameraWoman, Car Speakerman, Chef TV Man, Coems Unit, Corrupted Cameraman, Cuckoo ClockMan, DJ TV MAN, Dark Speakerman, Dual Bat Speakerman, Enginer, FIRE IN DA HOLE, Ghost Cameraman, Green Laser Cameraman, Guardian ClockMan, Guest 666 Unit, Hyper Titan Speakerman, Large ClockMan, Large Laser Cameraman, Largue Speakerman, Laser Cameraman Car, Mace Cameraman, Mech Cameraman, MewingTvMan, Nerd Emoji, Ninja Cameraman, Noob Unit, Ohio Cameraman, Ohio Speakerman, Partner Unit, Pizza Man, RayGun Cameraman, SantaTvMan, Scientist Box, Scientist Camera, Secret Agent, Silly Duck, Silver Hyper Titan Speakerman, Sinister TitanTVMan, Speaker Toilet, Spider TV, TVMan, Telanthric, Titan Burger Man, Titan Present Man, Titan Sigma Man, Titan Speakerman, Toast Man Toxic Hyper Titan Speakerman, Toxic Upgraded Titan Cameraman, Tri Titan, Ultra Hyper Titan Speakerman, Upgraded Titan Cameraman, Upgraded Titan CameramanV2, Upgraded Titan Clock Man, Upgraded Titan ClockMan 3.0, Upgraded Titan DrillMan, caseoh, ekd, steve, OhioSpeakerman, SigmaOhioTitan, Sub-Space Titan, Titan Cameraman, Pencil Man, Tv Woman, Bloxy Cola Mech, BBLM-RyZe12, Titan Nokia Man, Nokia Man ,Larva Upgraded Titan, Sorcerer, Jojo All Star, PeaShooter"
+)
+e:AddButton(
+    {
+        Name = "Click-To-Get-All",
+        Callback = function()
+            a:MakeNotification(
+                {
+                    Name = "Wait 3s+ to complete",
+                    Content = "be patient u asses",
+                    Image = "rbxassetid://13583174475",
+                    Time = 5
+                }
+            )
+            local g = {[1] = "Astro Upgraded Titan Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "2D Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Baller Unit"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Camera Spider"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "CameraWoman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Car Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Chef TV Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Coems Unit 🤑"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Corrupted Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Cuckoo ClockMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "DJ TV MAN"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Dark Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Dual Bat Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Enginer"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "FIRE IN DA HOLE"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Ghost Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Green Laser Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Pea Shoter"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Sunflower"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Star Platinum"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "testofjeese"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Guardian ClockMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Guest 666 Unit"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Hyper Titan Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Large ClockMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Large Laser Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Largue Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Laser Cameraman Car"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Mace Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Mech Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Nerd Emoji"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Mech Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "MewingTvMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Ninja Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Noob Unit"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Ohio Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Ohio Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Partner Unit"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Pizza Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "RayGun Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "SantaTvMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Scientist Box"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Secret Agent"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Silly Duck"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Silver Hyper Titan Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Sinister TitanTvMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Speaker Toilet"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Spider TV"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "TVMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Telanthric"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Titan Burger Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Titan Present Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Titan Sigma Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Titan Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Toast Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Toxic Hyper Titan Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Tri Titan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Toxic Upgraded Titan Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Ultra Hyper Titan Speakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Upgraded Titan Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Upgraded Titan CameramanV2"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Upgraded Titan Clock Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Upgraded Titan ClockMan 3.0"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Upgraded Titan DrillMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "caseoh"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "ekd"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "steve"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "OhioSpeakerman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Sigma Ohio Titan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Sub-Space Titan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Titan Cameraman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Pencil Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Tv Woman"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Bloxy Cola Mech"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "BBLM-RyZe12"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Nokia Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Larva Upgraded Titan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Titan Nokia Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Sorcerer"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Jojo All Star"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "PeaShoter"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = "Sukuna"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+            local g = {[1] = -999999}
+            game:GetService("ReplicatedStorage"):WaitForChild(
+                "gemitassigmaoyeweyaporfadejadeusarcheatsojrwjprqrojpqofnklwckllkjcknlacknlacnlkaknlcaknlaknlcaknlknl"
+            ):InvokeServer(unpack(g))
+            local g = {[1] = -50000000}
+            game:GetService("ReplicatedStorage"):WaitForChild("RemoveCoinshuferhfidjidfjidfsjisfjisfjisf"):InvokeServer(
+                unpack(g)
+            )
+        end
+    }
+)
+e:AddButton(
+    {Name = "IY-Edge", Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+        end}
+)
+e:AddButton(
+    {Name = "RemoteSpy V3", Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/78n/SimpleSpy/main/SimpleSpySource.lua"))()
+        end}
+)
+e:AddButton(
+    {
+        Name = "Dex V3 (Mobile)",
+        Callback = function()
+            loadstring(
+                game:HttpGet(
+                    "https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua",
+                    true
+                )
+            )()
+        end
+    }
+)
+f:AddParagraph("NOTE:", "Must Equip Pizza to place 25 pizza just like other farms also ")
+f:AddButton(
+    {Name = "Pizza Man (Spam for 25)", Callback = function()
+            local function i(j)
+                local k = game.Players.LocalPlayer
+                local l = k.Character
+                if l then
+                    local m = l:FindFirstChild("Humanoid")
+                    if m then
+                        local n = l:FindFirstChild("Head")
+                        if n then
+                            return n.Position
+                        end
+                    end
+                end
+                return nil
+            end
+            local o = i()
+            if o then
+                local p = "Pizza Man"
+                local q = CFrame.new(o)
+                local r = game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("SpawnTower")
+                r:InvokeServer(p, q)
+            end
+        end}
+)
+f:AddButton(
+    {Name = "Sci Box (Spam for 25)", Callback = function()
+            local function i(j)
+                local k = game.Players.LocalPlayer
+                local l = k.Character
+                if l then
+                    local m = l:FindFirstChild("Humanoid")
+                    if m then
+                        local n = l:FindFirstChild("Head")
+                        if n then
+                            return n.Position
+                        end
+                    end
+                end
+                return nil
+            end
+            local o = i()
+            if o then
+                local p = "Scientist Box"
+                local q = CFrame.new(o)
+                local r = game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("SpawnTower")
+                r:InvokeServer(p, q)
+            end
+        end}
+)
+f:AddButton(
+    {Name = "Scientist Cam(Spam for 25)", Callback = function()
+            local function i(j)
+                local k = game.Players.LocalPlayer
+                local l = k.Character
+                if l then
+                    local m = l:FindFirstChild("Humanoid")
+                    if m then
+                        local n = l:FindFirstChild("Head")
+                        if n then
+                            return n.Position
+                        end
+                    end
+                end
+                return nil
+            end
+            local o = i()
+            if o then
+                local p = "Scientist Cameraman"
+                local q = CFrame.new(o)
+                local r = game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("SpawnTower")
+                r:InvokeServer(p, q)
+            end
+        end}
+)
+f:AddButton(
+    {Name = "SantaTvMan (spam for 25)", Callback = function()
+            local function i(j)
+                local k = game.Players.LocalPlayer
+                local l = k.Character
+                if l then
+                    local m = l:FindFirstChild("Humanoid")
+                    if m then
+                        local n = l:FindFirstChild("Head")
+                        if n then
+                            return n.Position
+                        end
+                    end
+                end
+                return nil
+            end
+            local o = i()
+            if o then
+                local p = "SantaTvMan"
+                local q = CFrame.new(o)
+                local r = game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("SpawnTower")
+                r:InvokeServer(p, q)
+            end
+        end}
+)
+f:AddButton(
+    {Name = "FIRE IN DA HOLE(why did i put this)", Callback = function()
+            local function i(j)
+                local k = game.Players.LocalPlayer
+                local l = k.Character
+                if l then
+                    local m = l:FindFirstChild("Humanoid")
+                    if m then
+                        local n = l:FindFirstChild("Head")
+                        if n then
+                            return n.Position
+                        end
+                    end
+                end
+                return nil
+            end
+            local o = i()
+            if o then
+                local p = "FIRE IN DA HOLE"
+                local q = CFrame.new(o)
+                local r = game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("SpawnTower")
+                r:InvokeServer(p, q)
+            end
+        end}
+)
+f:AddButton(
+    {Name = "Quick Pizza Man", Callback = function()
+            local g = {[1] = "Pizza Man"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+f:AddButton(
+    {Name = "Quick Scientist Box", Callback = function()
+            local g = {[1] = "Scientist Box"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+f:AddButton(
+    {Name = "Quick SantaTvMan", Callback = function()
+            local g = {[1] = "SantaTvMan"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+f:AddButton(
+    {Name = "Quick FIRE IN DA HOLE", Callback = function()
+            local g = {[1] = "FIRE IN DA HOLE"}
+            game:GetService("ReplicatedStorage"):WaitForChild("InteractItemSigmaToiletbro"):InvokeServer(unpack(g))
+        end}
+)
+a:Init()
